@@ -3,7 +3,7 @@ import org.openqa.selenium.By;
 public class DemoPage {
 
 	
-	By email= By.id("email"); 
+	By email= By.id("emailid");	 
 	
 	public void init()
 	{
